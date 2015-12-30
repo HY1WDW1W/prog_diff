@@ -1,0 +1,9 @@
+package mvec_pk;
+
+
+struct mvec
+{	
+	string title;
+	int64_t len;
+	double vec[len];
+}
